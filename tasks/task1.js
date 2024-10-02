@@ -19,3 +19,4 @@ const products = [
 ];
 
 console.log(getPopularCategories(products)); // ['Electronics', 'Clothing', 'Footwear']
+module.exports = getPopularCategories;
