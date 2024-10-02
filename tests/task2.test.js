@@ -1,4 +1,4 @@
-const getProductsNotInPriceRange = require('../tasks/task2'); 
+const getProductsNotInPriceRange = require('../tasks/task2')
 
 describe('getProductsNotInPriceRange', () => {
 
